@@ -16,7 +16,7 @@
 		2D64851624F31A920020BCF6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D64851524F31A920020BCF6 /* Constants.swift */; };
 		2D64851824F31AC40020BCF6 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D64851724F31AC40020BCF6 /* Video.swift */; };
 		2D64851A24F31AFD0020BCF6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D64851924F31AFD0020BCF6 /* Model.swift */; };
-		2D64851C24F31B1E0020BCF6 /* ConstantTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D64851B24F31B1E0020BCF6 /* ConstantTemplate.swift */; };
+		2D64851C24F31B1E0020BCF6 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D64851B24F31B1E0020BCF6 /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		2D64851524F31A920020BCF6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		2D64851724F31AC40020BCF6 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		2D64851924F31AFD0020BCF6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		2D64851B24F31B1E0020BCF6 /* ConstantTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantTemplate.swift; sourceTree = "<group>"; };
+		2D64851B24F31B1E0020BCF6 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 				2D64851524F31A920020BCF6 /* Constants.swift */,
 				2D64851724F31AC40020BCF6 /* Video.swift */,
 				2D64851924F31AFD0020BCF6 /* Model.swift */,
-				2D64851B24F31B1E0020BCF6 /* ConstantTemplate.swift */,
+				2D64851B24F31B1E0020BCF6 /* ConstantsTemplate.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2D50CE2624F2AC2D0007632A /* Build configuration list for PBXProject "youtube-onedaybuild.xcodeproj_download" */;
+			buildConfigurationList = 2D50CE2624F2AC2D0007632A /* Build configuration list for PBXProject "youtube-onedaybuild" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 				2D64851A24F31AFD0020BCF6 /* Model.swift in Sources */,
 				2D64851624F31A920020BCF6 /* Constants.swift in Sources */,
 				2D64851824F31AC40020BCF6 /* Video.swift in Sources */,
-				2D64851C24F31B1E0020BCF6 /* ConstantTemplate.swift in Sources */,
+				2D64851C24F31B1E0020BCF6 /* ConstantsTemplate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,7 +335,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2D50CE2624F2AC2D0007632A /* Build configuration list for PBXProject "youtube-onedaybuild.xcodeproj_download" */ = {
+		2D50CE2624F2AC2D0007632A /* Build configuration list for PBXProject "youtube-onedaybuild" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D50CE3D24F2AC380007632A /* Debug */,
