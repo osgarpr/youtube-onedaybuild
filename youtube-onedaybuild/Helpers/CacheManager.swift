@@ -25,4 +25,6 @@ class CacheManager {
         //Try to get the data for the specified url
         return cache[url]
     }
+    
+    //Configure the view for the selected state
 }
